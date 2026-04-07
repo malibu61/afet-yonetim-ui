@@ -6,6 +6,7 @@ Install with `npm install`, dev server with `npm run dev` (or `yarn dev`, `pnpm 
 
 In short: this app shows earthquakes and risks on a map; it talks to the .NET API and needs Mapbox env vars.
 <img width="1328" height="544" alt="image" src="https://github.com/user-attachments/assets/fc6667b2-50e6-4a4c-a780-dc4e532271f2" />
+<img width="1083" height="522" alt="image" src="https://github.com/user-attachments/assets/bde6de79-5681-4d1f-bbb3-8be98d350b9f" />
 <img width="1584" height="725" alt="image" src="https://github.com/user-attachments/assets/cf4ebed8-99dc-49fd-ac74-a309850c60d8" />
 <img width="1478" height="736" alt="image" src="https://github.com/user-attachments/assets/47f553f7-178a-4fa4-a311-6d6ae6193e32" />
 <img width="1545" height="697" alt="image" src="https://github.com/user-attachments/assets/6aeb6e53-689c-4cf4-b9e9-2a9c560981a1" />
